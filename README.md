@@ -1,6 +1,13 @@
 # Proteómica - Aproximaciones Ómicas
 ### Análisis de expresión diferencial y reajuste metabólico en *Cupriavidus necator* rGlyP
 
+<p align="center">
+  <img src="figuras/07_sample_two_tests.png" width="600" title="Volcano Plot de Expresión Diferencial">
+</p>
+<p align="center">
+  <em><b>Volcano Plot:</b> Se observan los bloques de expresión diferencial coordinada. En rojo, las proteínas upregulated vinculadas a la vía rGlyP y la asimilación de monocarbonos; en azul, las proteínas nativas reprimidas (predominantemente del ciclo CBB).</em>
+</p>
+
 Este repositorio contiene el flujo de trabajo computacional completo para el procesamiento y análisis de datos de proteómica cuantitativa (adquisición DIA) obtenidos mediante espectrometría de masas (Orbitrap Exploris 480). El objetivo central es validar la integración funcional de la vía sintética rGlyP y caracterizar el reajuste del proteoma frente al ciclo nativo CBB.
 
 ## 🚀 Estructura del Proyecto
