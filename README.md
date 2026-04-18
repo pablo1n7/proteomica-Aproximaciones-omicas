@@ -2,7 +2,7 @@
 ### Análisis de expresión diferencial y reajuste metabólico en *Cupriavidus necator* rGlyP
 
 <p align="center">
-  <img src="figuras/07_sample_two_tests.png" width="600" title="Volcano Plot de Expresión Diferencial">
+  <img src="https://github.com/pablo1n7/proteomica-Aproximaciones-omicas/blob/main/figuras/06-sample-two-tests.png?raw=true" width="600" title="Volcano Plot de Expresión Diferencial">
 </p>
 <p align="center">
   <em><b>Volcano Plot:</b> Se observan los bloques de expresión diferencial coordinada. En rojo, las proteínas upregulated vinculadas a la vía rGlyP y la asimilación de monocarbonos; en azul, las proteínas nativas reprimidas (predominantemente del ciclo CBB).</em>
